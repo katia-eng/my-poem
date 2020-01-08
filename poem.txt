@@ -3,7 +3,7 @@ blue
 orange
 green
 yellow
-ponies
+ponies are cute
 gold
 unicorn
 purple 
