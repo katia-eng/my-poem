@@ -3,6 +3,7 @@ blue
 orange
 green
 yellow
+gold
 unicorn
 purple 
 this is my poem
